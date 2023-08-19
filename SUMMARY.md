@@ -1,24 +1,14 @@
 # Table of contents
 
-* [👋 Welcome!](README.md)
+* [聊天室历史书](README.md)
 
-## About us
+## 编年史
 
-* [🚀 Vision, Mission & Focus](about-us/vision-mission-and-focus/README.md)
-  * [Vision](about-us/vision-mission-and-focus/vision.md)
-  * [Mission](about-us/vision-mission-and-focus/mission.md)
-  * [Focus](about-us/vision-mission-and-focus/focus.md)
-* [💖 Values](about-us/values.md)
-
-## Team
-
-* [👋 Meet the Team!](team/meet-the-team.md)
-
-## Collaborating
-
-* [🤝 How we Work Together](collaborating/how-we-work-together.md)
-* [📅 Meetings](collaborating/meetings.md)
-
-## Policies
-
-* [🌴 Requesting Time Off](policies/requesting-time-off.md)
+- [史前时代](编年史/史前时代.md)
+- [帝国时代](编年史/帝国时代.md)
+- [智械时代](编年史/智械时代.md)
+- [三国鼎立](编年史/三国鼎立.md)
+- [大动乱时代](编年史/大动乱时代.md)
+- [冷战时代](编年史/冷战时代.md)
+- [桃源时代](编年史/桃源时代.md)
+- [二战时代](编年史/二战时代.md)
