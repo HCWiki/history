@@ -1,5 +1,5 @@
 # 聊天室历史书
-**版本10.0，于2023年7月更新。**
+**版本10.1，于2023年8月20日更新。**
 
 
 ## 分支地址
@@ -22,6 +22,14 @@
 - [DOLLARS的历史书](https://drrr.wiki/事件)
 - [ee的ZHC历史书](https://book.paperee.guru/#一个一个历史书)
 
+
+## 其它记录聊天室事件的资料
+- [ChatNews](https://chatnews.thz.cool)
+- [ee的博客](https://paperee.guru)
+- [MrZhang365的博客](https://blog.mrzhang365.cf/)
+- [ee的ZHC历史书](https://book.paperee.guru/#一个一个历史书)
+
+
 ## 编辑团队
 - [4n0n4me](https://www.pillows.net.eu.org/)（主编）
 - [ee](https://paperee.tk)（副主编，修改格式，整理目录）
@@ -34,6 +42,7 @@
 
 
 ## 更新内容
+- 更新了二战时期的部分事件。（10.1）
 - 跟进了2023年至7月的历史。（10.0）
 - 修改了十字街的缩写；增加了部分说明。（9.12）
 - 更新了yc定点轰炸事件。（9.11）
