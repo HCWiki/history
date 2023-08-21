@@ -63,4 +63,5 @@
 - 除YC帝国外，具有缩写的频道名均使用小写字母缩写。
 - 文章中出现的所有缩写详见附录[常用语](#常用语)。
 - 这是一本涵盖解说、绯闻及网络攻击的历史书。
-- 若发现任何语病、错字或事实错误，欢迎通过在[DataEveryting的GitHub仓库](https://github.com/DataeverythingTeam/ChatroomHistoryBook)或[HCWiki的GitHub仓库](https://github.com/HCWiki/history)提issue或在聊天室中联系编辑团队等方式反映。
+- 由于时间跨度长、记录多个聊天室的事件，不可避免地存在许多事件遗漏或细节不明，欢迎提出完善。
+- 若发现任何语病、错字或事实错误，欢迎通过在[HCWiki的GitHub仓库](https://github.com/HCWiki/history)提issue或在聊天室中联系编辑团队等方式反映。
