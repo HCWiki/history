@@ -4,8 +4,9 @@
 
 ## 分支地址
 注：发布地址可能出现不可用的情况。
-- [ee的文档库](https://book.paperee.guru/#聊天室历史书)
 - [HC Wiki的GitBook](https://hcwiki.gitbook.io/history/)
+- [HiyoTeam的GitHub Page](https://hiyoteam.github.io/ChatroomHistoryBook/)
+- [ee的文档库](https://book.paperee.guru/#聊天室历史书)
 - [zzChumo的资料库](https://www.zzchat.cf/book.html)
 
  
