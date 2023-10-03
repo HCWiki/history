@@ -1,48 +1,50 @@
 # 聊天室历史书
+
 **版本10.5，于2023年9月10日更新。**
 
-
 ## 分支地址
+
 注：发布地址可能出现不可用的情况。
+
 - [HC Wiki的GitBook](https://hcwiki.gitbook.io/history/)
 - [HiyoTeam的GitHub Page](https://hiyoteam.github.io/ChatroomHistoryBook/)
 - [ee的文档库](https://book.paperee.guru/#聊天室历史书)
 - [zzChumo的资料库](https://www.zzchat.cf/book.html)
 
- 
 过去的发布地址：
+
 - ~~[24a的知识库](https://docs.thz.cool/#/chatroom-history-book)~~（已下线）
 - ~~[24a的wiki](https://wiki.thz.cool/index.php?title=聊天室历史书)~~（因服务器过期，已下线）
 - ~~[Mr\_Zhang的博客](https://mrzhang365.github.io/2022/09/07/聊天室历史书/)~~（已删除）
 - ~~[DataEveryting的GitHub仓库](https://github.com/DataeverythingTeam/ChatroomHistoryBook)~~（已归档）
 
-
 ## 友情站点
+
 - [4n0n4me的HC Wiki](https://hcwiki.fourohfour.link/)
 - [zzChumo的HC百科](https://www.zzchat.cf/wiki/)
 - [DOLLARS的历史书](https://drrr.wiki/事件)
 - [ee的ZHC历史书](https://book.paperee.guru/#一个一个历史书)
 
-
 ## 其它记录聊天室事件的资料
+
 - [ChatNews](https://chatnews.thz.cool)
 - [ee的博客](https://paperee.guru)
 - [MrZhang365的博客](https://blog.mrzhang365.cf/)
 - [ee的ZHC历史书](https://book.paperee.guru/#一个一个历史书)
 
-
 ## 编辑团队
+
 - [4n0n4me](https://www.pillows.net.eu.org/)（主编）
 - [ee](https://paperee.tk)（副主编，修改格式，整理目录）
 - [24a](https://thz.cool/)（项目提出者，修改格式，整理目录）
 - [zzChumo](https://www.zzchat.cf/)（润色，内容补充）
 
-
 ## 特别感谢
+
 - 提出建议的：[Mr\_Zhang](https://mrzhang365.github.io/)、[QiuLingYan](https://qiu-lingyan.github.io/1)、[Light](https://gitee.com/BirdingLight)、[MelonFish](https://xq.kzw.ink/)、B站的J、snose、[MuRongPIG](https://github.com/MuRongPIG)、emankicN、Hack4r and you.
 
-
 ## 更新内容
+
 - 更新了一些最新事件，修改了部分事实。（10.5）
 - 更新了awacoin和二战结束。（10.4）
 - 更新了二战时期的部分事件。（10.2）
@@ -58,8 +60,8 @@
 - 跟进[ee的文档库](http://book.paperee.guru/#/chatroom-history-book/)版本，修订了许多内容。（9.5）
 - 更新了小雪事件、NCX客户端；修改了部分用语。（9.4）
 
-
 ## 致读者（也致各位编写者）
+
 - 除QiuLingYan、24a等昵称有明显的阶段性改变的用户外，用户昵称均使用最常见昵称。
 - 英文的聊天室名使用大写字母缩写。
 - 除YC帝国外，具有缩写的频道名均使用小写字母缩写。
@@ -70,7 +72,7 @@
 - 由于时间跨度长、记录多个聊天室的事件，不可避免地存在许多事件遗漏或细节不明，欢迎提出完善。
 - 若发现任何语病、错字或事实错误，欢迎通过在[HCWiki的GitHub仓库](https://github.com/HCWiki/history)提issue或在聊天室中联系编辑团队等方式反映。
 
-
 ## TODO
+
 - [x] awacoin
 - [ ] HCArchive
