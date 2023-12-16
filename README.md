@@ -7,9 +7,13 @@
 注：发布地址可能出现不可用的情况。
 
 - [HC Wiki的GitBook](https://hcwiki.gitbook.io/history/)
+
+其他发布地址：
 - [HiyoTeam的GitHub Page](https://hiyoteam.github.io/ChatroomHistoryBook/)
 - [ee的文档库](https://book.paperee.guru/#聊天室历史书)
 - [zzChumo的资料库](https://www.zzchat.cf/book.html)
+
+注意，上述发布地址的版本已经大幅落后。
 
 过去的发布地址：
 
