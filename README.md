@@ -1,6 +1,6 @@
 # 聊天室历史书
 
-**版本10.6，于2023年12月14日更新。**
+**版本10.6.1，于2023年12月19日更新。**
 
 ## 分支地址
 
@@ -20,7 +20,7 @@
 - ~~[24a的知识库](https://docs.thz.cool/#/chatroom-history-book)~~（已下线）
 - ~~[24a的wiki](https://wiki.thz.cool/index.php?title=聊天室历史书)~~（因服务器过期，已下线）
 - ~~[Mr\_Zhang的博客](https://mrzhang365.github.io/2022/09/07/聊天室历史书/)~~（已删除）
-- ~~[DataEveryting的GitHub仓库](https://github.com/DataeverythingTeam/ChatroomHistoryBook)~~（已归档）
+- ~~[DataEveryting的GitHub仓库](https://githubfast.com/DataeverythingTeam/ChatroomHistoryBook)~~（已归档）
 
 ## 友情站点
 
@@ -33,7 +33,7 @@
 
 - [ChatNews](https://chatnews.thz.cool)
 - [ee的博客](https://paperee.guru)
-- [MrZhang365的博客](https://blog.mrzhang365.cf/)
+- [MrZhang365的博客](https://blog.zhangsoft.link/)
 - [ee的ZHC历史书](https://book.paperee.guru/#一个一个历史书)
 
 ## 编辑团队
@@ -45,7 +45,7 @@
 
 ## 特别感谢
 
-- 提出建议的：[Mr\_Zhang](https://mrzhang365.github.io/)、[QiuLingYan](https://qiu-lingyan.github.io/1)、[Light](https://gitee.com/BirdingLight)、[MelonFish](https://xq.kzw.ink/)、B站的J、snose、[MuRongPIG](https://github.com/MuRongPIG)、emankicN、Hack4r and you.
+- 提出建议的：[MrZhang365](https://blog.zhangsoft.link/)、[QiuLingYan](https://qiu-lingyan.github.io/1)、[Light](https://gitee.com/BirdingLight)、[MelonFish](https://xq.kzw.ink/)、B站的J、snose、[MuRongPIG](https://githubfast.com/MuRongPIG)、emankicN、Hack4r and you.
 
 ## 更新内容
 
@@ -75,7 +75,7 @@
 - 目前，这是一本以HC的yc频道为中心的历史书。
 - 由于时间跨度长、历史书格式迁移，很多链接现已失效，敬请谅解。
 - 由于时间跨度长、记录多个聊天室的事件，不可避免地存在许多事件遗漏或细节不明，欢迎提出完善。
-- 若发现任何语病、错字或事实错误，欢迎通过在[HCWiki的GitHub仓库](https://github.com/HCWiki/history)提issue或在聊天室中联系编辑团队等方式反映。
+- 若发现任何语病、错字或事实错误，欢迎通过在[HCWiki的GitHub仓库](https://githubfast.com/HCWiki/history)提issue或在聊天室中联系编辑团队等方式反映。
 
 ## TODO
 
