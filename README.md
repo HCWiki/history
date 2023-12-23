@@ -33,7 +33,7 @@
 
 - [ChatNews](https://chatnews.thz.cool)
 - [ee的博客](https://paperee.guru)
-- [MrZhang365的博客](https://blog.mrzhang365.cf/)
+- [MrZhang365的博客](https://blog.mrzhang365.link/)
 - [ee的ZHC历史书](https://book.paperee.guru/#一个一个历史书)
 
 ## 编辑团队
