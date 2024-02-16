@@ -11,7 +11,7 @@
 其他发布地址：
 - [HiyoTeam的GitHub Page](https://hiyoteam.github.io/ChatroomHistoryBook/)
 - [ee的文档库](https://book.paperee.guru/#聊天室历史书)
-- [zzChumo的资料库](https://www.zzchat.cf/book.html)
+- [zzChumo的资料库](https://zzcm.fun/book.html)
 
 注意，上述发布地址的版本已经大幅落后。
 
@@ -25,7 +25,7 @@
 ## 友情站点
 
 - [4n0n4me的HC Wiki](https://hcwiki.fourohfour.link/)
-- [zzChumo的HC百科](https://www.zzchat.cf/wiki/)（似乎已失效）
+- [zzChumo的HC百科](https://zzcm.fun/wiki/)（似乎已失效）
 - [DOLLARS的历史书](https://drrr.wiki/事件)
 - [ee的ZHC历史书](https://book.paperee.guru/#一个一个历史书)
 
@@ -41,7 +41,7 @@
 - [4n0n4me](https://www.pillows.net.eu.org/)（主编）
 - [ee](https://paperee.tk)（副主编，修改格式，整理目录）
 - [24a](https://thz.cool/)（项目提出者，修改格式，整理目录）
-- [zzChumo](https://www.zzchat.cf/)（润色，内容补充）
+- [zzChumo](https://zzcm.fun/)（润色，内容补充）
 
 ## 特别感谢
 
