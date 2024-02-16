@@ -1,6 +1,6 @@
 # 聊天室历史书
 
-**版本10.14，于2024年2月14日更新。**
+**版本10.15，于2024年2月16日更新。**
 
 ## 分支地址
 
@@ -25,7 +25,7 @@
 ## 友情站点
 
 - [4n0n4me的HC Wiki](https://hcwiki.fourohfour.link/)
-- [zzChumo的HC百科](https://www.zzchat.cf/wiki/)
+- [zzChumo的HC百科](https://www.zzchat.cf/wiki/)（似乎已失效）
 - [DOLLARS的历史书](https://drrr.wiki/事件)
 - [ee的ZHC历史书](https://book.paperee.guru/#一个一个历史书)
 
@@ -49,6 +49,7 @@
 
 ## 更新内容
 
+- 更新了最新事件，对部分失效链接进行了标注和修改。（10.15）
 - 更新了两件事。（10.14）
 - 一些小修改和补充。（10.13）
 - 更新了XC复活。（10.12.1）
