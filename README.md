@@ -45,7 +45,7 @@
 
 ## 特别感谢
 
-- 提出建议的：[MrZhang365](https://blog.zhangsoft.link/)、[QiuLingYan](https://qiu-lingyan.github.io/1)、[Light](https://gitee.com/BirdingLight)、[MelonFish](https://xq.kzw.ink/)、B站的J、snose、[MuRongPIG](https://githubfast.com/MuRongPIG)、emankicN、Hack4r and you.
+- 提出建议的：[MrZhang365](https://blog.zhangsoft.link/)、[QiuLingYan](https://qiu-lingyan.github.io/1)、[Light](https://gitee.com/BirdingLight)、[MelonFish](https://xq.kzw.ink/)、B站的J、snose、[MuRongPIG](https://githubfast.com/MuRongPIG)、emankicN、Hack4r、RLYB and you.
 
 ## 更新内容
 
